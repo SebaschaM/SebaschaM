@@ -11,7 +11,6 @@
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-curve&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-curve&logo=brave&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-curve&logo=react&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-curve&logo=javascript&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-curve&logo=css3&logoColor=white" />
@@ -29,7 +28,7 @@
 <h6> ✨ Others </h6>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-curve&logo=git&logoColor=white" />
-  <img alt="nordvpn" src="https://img.shields.io/badge/-NordVpn-4687FF?style=flat-curve&logo=NordVPN&logoColor=FFFFFF"/>
+  <img alt="nordvpn" src="https://img.shields.io/badge/-NordVpn-4687FF?style=flat-curve&logo=NordVPN&logoColor=white"/>
 
 </p>
 
