@@ -1,4 +1,4 @@
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> Hi 👋, Welcome to my little code site </h1>
+<h1> <img src="https://user-images.githubusercontent.com/90701894/146861242-b5e4a0c3-7035-4a1a-af74-20778bb5fbaa.gif" width="30"> Hi 👋, Welcome to my little code site </h1>
 <p>
   Hi I'm Leonardo from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="15"> Lima, Perú.
   I like to work in a team because I believe that our skills complement each other, so we can learn from each other.
