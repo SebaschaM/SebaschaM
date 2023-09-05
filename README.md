@@ -10,8 +10,10 @@
 <h6>🎨 Frontend </h6>
 
 <p>
+ 
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-curve&amp;logo=react&amp;logoColor=white">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-curve&logo=html5&logoColor=white" />
+   <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-curve&logo=javascript&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-curve&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8e17fd?style=flat-curve&logo=bootstrap&logoColor=white" />
