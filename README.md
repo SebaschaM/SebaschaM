@@ -1,4 +1,4 @@
-<h1> <img src="https://user-images.githubusercontent.com/90701894/146861242-b5e4a0c3-7035-4a1a-af74-20778bb5fbaa.gif" width="30"> Hi 👋, Welcome to my little code site </h1>
+<h1> <img src="https://user-images.githubusercontent.com/90701894/146861242-b5e4a0c3-7035-4a1a-af74-20778bb5fbaa.gif" width="30"> Hello There! 👋, It's a pleasure to meet you. Let's make magic happen  </h1>
 <p>
   Hi I'm Sebastián from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="15"> Lima, Perú.
   I like to work in a team because I believe that our skills complement each other, so we can learn from each other.
