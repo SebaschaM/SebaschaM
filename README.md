@@ -49,7 +49,7 @@
 <h3>My stats</h3>
 <p>
 
-  <img src="https://camo.githubusercontent.com/9758d17aafcadbed2b3f0e0ee14a45606bcb058ce992a3bfd6a87c39f9561c6c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5961637461796f4326686964653d636f6e747269627326636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7368616465732d6f662d707572706c65" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=SebaschaM&amp;hide=contribs&amp;count_private=true&amp;show_icons=true&amp;theme=shades-of-purple" style="max-width: 100%;">
+  <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SebaschaM&amp;hide=contribs&amp;count_private=true&amp;show_icons=true&amp;theme=shades-of-purple" >
   <!-- 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSCH&layout=compact&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)-->
 
