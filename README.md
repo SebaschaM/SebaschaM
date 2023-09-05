@@ -28,14 +28,14 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-curve&logo=python&logoColor=white" />
 </p>
 
-<h6>📦 Database </h6>
+<h6>📊 Database </h6>
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSql-336791?style=style%3Dflat-curve&logo=postgresql&logoColor=FFFFFF">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=style%3Dflat-curve&logo=mongodb&logoColor=FFFFFF">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-curve&logo=mysql&logoColor=white" />
 </p>
 
-<h6> ✨ Others </h6>
+<h6>✨ Others </h6>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-curve&logo=git&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-121212?style=flat-curve&logo=notion&logoColor=white" />
