@@ -38,7 +38,7 @@
 <h6> ✨ Others </h6>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-curve&logo=git&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-7f7f7f?style=flat-curve&logo=notion&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-121212?style=flat-curve&logo=notion&logoColor=white" />
   <img alt="MsOffice" src="https://img.shields.io/badge/-Ms Office-D83B01?style=flat-curve&logo=microsoftoffice&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-curve&logo=notion&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-0066b8?style=style%3Dflat-curve&logo=visualstudiocode&logoColor=FFFFFF">
