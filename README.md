@@ -9,7 +9,7 @@
 
 <h6>🎨 Frontend </h6>
 
-<p
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-curve&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-curve&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-curve&logo=javascript&logoColor=white" />
