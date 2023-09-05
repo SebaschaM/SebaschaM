@@ -10,9 +10,8 @@
 <h6>🎨 Frontend </h6>
 
 <p>
- 
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-curve&amp;logo=react&amp;logoColor=white">
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-curve&logo=html5&logoColor=white" />
+  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-curve&logo=html5&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-c76494?style=flat-curve&amp;logo=sass&amp;logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-curve&logo=javascript&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-curve&logo=css3&logoColor=white" />
@@ -21,11 +20,11 @@
 
 <h6>📦 Backend </h6>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-curve&logo=java&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853d?style=style%3Dflat-curve&logo=nodedotjs&logoColor=FFFFFF">
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-a7215b?style=flat-curve&logo=apache&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-curve&logo=flask&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-curve&logo=python&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-333?style=style%3Dflat-curve&logo=express&logoColor=FFFFFF">
 </p>
 
 <h6>📊 Database </h6>
