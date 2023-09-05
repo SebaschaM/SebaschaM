@@ -22,9 +22,7 @@
 <h6>📦 Backend </h6>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-curve&logo=java&logoColor=white" />
-  
-  <img alt="JakartaEE" src="https://img.shields.io/badge/-JakartaEE-eb8125?style=flat-curve&logo=jakarta&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-curve&logo=SpringBoot&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853d?style=style%3Dflat-curve&logo=nodedotjs&logoColor=FFFFFF">
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-a7215b?style=flat-curve&logo=apache&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-curve&logo=mysql&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-curve&logo=flask&logoColor=white" />
