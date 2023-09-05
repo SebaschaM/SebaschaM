@@ -49,7 +49,7 @@
 <h3>My stats</h3>
 <p>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SebaschaM=anuraghazra&show_icons=true&bg_color=00000000)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaschaM=anuraghazra&show_icons=true&bg_color=00000000)
   <!-- 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSCH&layout=compact&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)-->
 
