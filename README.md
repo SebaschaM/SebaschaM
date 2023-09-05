@@ -50,7 +50,6 @@
 <p>
 
   <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SebaschaM&amp;hide=contribs&amp;count_private=true&amp;show_icons=true&amp;theme=shades-of-purple" >
-  <!-- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSCH&layout=compact&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)-->
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebaschaM&amp;layout=compact&amp;show_icons=true&amp;theme=shades-of-purple">
 
 </p>
