@@ -47,9 +47,9 @@
 --- 
 
 <h3>My stats</h3>
-<p style="display: flex, align: center">
+<p>
 
   <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SebaschaM&amp;hide=contribs&amp;count_private=true&amp;show_icons=true&amp;theme=shades-of-purple" >
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebaschaM&amp;layout=compact&amp;show_icons=true&amp;theme=shades-of-purple">
-
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SebaschaM&amp;theme=radical&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D">
 </p>
