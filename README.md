@@ -27,6 +27,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-curve&logo=flask&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-curve&logo=python&logoColor=white" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-333?style=style%3Dflat-curve&logo=express&logoColor=FFFFFF">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-curve&logo=typescript&logoColor=white" />
 </p>
 
 <h6>📊 Database </h6>
