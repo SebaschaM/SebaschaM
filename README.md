@@ -16,6 +16,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-curve&logo=javascript&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-curve&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8e17fd?style=flat-curve&logo=bootstrap&logoColor=white" />
+  <img alt="MaterialUI" src="https://img.shields.io/badge/-Material UI-007FFF?style=flat-curve&logo=mui&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-curve&logo=tailwindcss&logoColor=white" />
 </p>
 
 <h6>📦 Backend </h6>
