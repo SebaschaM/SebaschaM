@@ -41,7 +41,7 @@
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-121212?style=flat-curve&logo=notion&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0066b8?style=style%3Dflat-curve&logo=visualstudiocode&logoColor=FFFFFF">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=style%3Dflat-curve&logo=docker&logoColor=FFFFFF">
-  <img alt="Jenkins" src="https://img.shields.io/badge/Docker-D24939?style=style%3Dflat-curve&logo=jenkins&logoColor=FFFFFF">
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=style%3Dflat-curve&logo=jenkins&logoColor=FFFFFF">
 </p>
 
 
