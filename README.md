@@ -23,7 +23,6 @@
 <h6>📦 Backend </h6>
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853d?style=style%3Dflat-curve&logo=nodedotjs&logoColor=FFFFFF">
-  <img alt="Maven" src="https://img.shields.io/badge/-Maven-a7215b?style=flat-curve&logo=apache&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-curve&logo=flask&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-curve&logo=python&logoColor=white" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-333?style=style%3Dflat-curve&logo=express&logoColor=FFFFFF">
@@ -45,6 +44,7 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0066b8?style=style%3Dflat-curve&logo=visualstudiocode&logoColor=FFFFFF">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=style%3Dflat-curve&logo=docker&logoColor=FFFFFF">
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=style%3Dflat-curve&logo=jenkins&logoColor=FFFFFF">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=style%3Dflat-curve&logo=postman&logoColor=FFFFFF">
 </p>
 
 
