@@ -32,16 +32,15 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSql-336791?style=style%3Dflat-curve&logo=postgresql&logoColor=FFFFFF">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=style%3Dflat-curve&logo=mongodb&logoColor=FFFFFF">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-curve&logo=mysql&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL Server-CC2927?style=flat-curve&logo=sqlserver&logoColor=CC2927" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-curve&logo=microsoftsqlserver&logoColor=ffffff" /> 
 </p>
 
 <h6>✨ Others </h6>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-curve&logo=git&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-121212?style=flat-curve&logo=notion&logoColor=white" />
-  <img alt="MsOffice" src="https://img.shields.io/badge/-Ms Office-D83B01?style=flat-curve&logo=microsoftoffice&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-curve&logo=notion&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-0066b8?style=style%3Dflat-curve&logo=visualstudiocode&logoColor=FFFFFF">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0066b8?style=style%3Dflat-curve&logo=visualstudiocode&logoColor=FFFFFF">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=style%3Dflat-curve&logo=docker&logoColor=FFFFFF">
 </p>
 
 
