@@ -32,7 +32,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSql-336791?style=style%3Dflat-curve&logo=postgresql&logoColor=FFFFFF">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=style%3Dflat-curve&logo=mongodb&logoColor=FFFFFF">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-curve&logo=mysql&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL Server-CC2927?style=flat-curve&logo=microsoftsqlserver&logoColor=CC2927" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL Server-CC2927?style=flat-curve&logo=sqlserver&logoColor=CC2927" />
 </p>
 
 <h6>✨ Others </h6>
